@@ -5,6 +5,5 @@
 -👯 Je suis à la recherche de partenaires pour collaborer sur des projets front-end et affiner mes compétences en développement. <br/>
 -🤔 J'ai besoin d'un peu d'aide pour améliorer mes projets et découvrir de nouvelles techniques et technologies qui me permettront de devenir un meilleur développeur. <br/>
 -💬 N'hésitez pas à me poser toutes vos questions sur mes projets ou mes compétences en tant que développeur web, je suis ouvert à la discussion. <br/>
--📫 Si vous souhaitez entrer en contact avec moi, vous pouvez le faire via mon profil GitHub ou LinkedIn. <br/>
--⚡ Je suis passionné par les projets créatifs et innovants, et j'adore explorer de nouvelles façons de faire les choses dans le monde du développement web.
-
+-⚡ Je suis passionné par les projets créatifs et innovants, et j'adore explorer de nouvelles façons de faire les choses dans le monde du développement web. <br/>
+-📫 Si vous souhaitez entrer en contact avec moi, vous pouvez le faire via mon profil GitHub ou LinkedIn.  <br/>
