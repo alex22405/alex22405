@@ -15,4 +15,5 @@
 <img alt="php" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img alt="mySql" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <br/>
+-Stats : <br/>
 ![GHstats](https://github-readme-stats.vercel.app/api?username=alex22405&show_icons=true)
