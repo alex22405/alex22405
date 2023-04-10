@@ -7,3 +7,4 @@
 -💬 N'hésitez pas à me poser toutes vos questions sur mes projets ou mes compétences en tant que développeur web, je suis ouvert à la discussion. <br/>
 -⚡ Je suis passionné par les projets créatifs et innovants, et j'adore explorer de nouvelles façons de faire les choses dans le monde du développement web. <br/>
 -📫 Si vous souhaitez entrer en contact avec moi, vous pouvez le faire via mon profil GitHub ou LinkedIn.  <br/>
+ [![linkedin](./linkedin.png)](https://www.linkedin.com/in/alexandre-vigon/)
