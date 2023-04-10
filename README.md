@@ -1,6 +1,6 @@
 ### Hi Github 👋
 
--🔭 En ce moment, je travaille sur des projets d'exercices et des projets personnels pour continuer à progresser en tant que développeur web.
+-🔭 En ce moment, je suis en formation de dév et je travaille sur des projets d'exercices et des projets personnels pour continuer à progresser.
 
 -🌱 J'ai pour objectif de devenir un expert en front-end avant de me lancer dans le full-stack.
 
